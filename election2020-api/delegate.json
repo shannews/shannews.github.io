@@ -1,14 +1,7 @@
 {
     "hopang": {
-        "winParty": {
-            "SNLD": 2,
-            "NLD": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6920,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "hopong": {
         "winParty": {},
