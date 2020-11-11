@@ -1,85 +1,48 @@
 {
     "hopang": {
-        "winParty": {},
+        "winParty": {
+            "SNLD": 2,
+            "NLD": 1
+        },
         "delegate": {
             "pyithu": 2722,
-            "state1": 6351,
+            "state1": 6920,
             "state2": 6357
         }
     },
     "hopong": {
         "winParty": {},
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "hseni": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "hsihseng": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "hsipaw": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "kalaw": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "kengtung": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "konkyan": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "USDP": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "kunhing": {
         "winParty": {
@@ -93,47 +56,25 @@
     },
     "kunlong": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "USDP": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "kutkai": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "kyaukme": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "kyethi": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "laihka": {
         "winParty": {
@@ -147,135 +88,63 @@
     },
     "langkho": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "lashio": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "laukkaing": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "lawksawk": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "loilen": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 1
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "mabein": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "manton": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "matman": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "USDP": 1,
+            "no_party": 1,
+            "LHNDP": 1
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "mawkmai": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 1
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "mongnai": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 2
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "monghpyak": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "monghsat": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "monghsu": {
         "winParty": {
@@ -288,334 +157,135 @@
         }
     },
     "mongkhet": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongkung": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongmit": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongpan": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNDP": 2
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "mongping": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongton": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongyai": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "mongyang": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongyawng": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "muse": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 3
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "namhkan": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "namhsan": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 1
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "namtu": {
         "winParty": {
-            "SNLD": 2,
-            "USDP": 1
+            "SNLD": 2
         },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "delegate": {}
     },
     "nansang": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "nawnghkio": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "nyaungshwe": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "panglong": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "pekon": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "pindaya": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "tachileik": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "tangyan": {
         "winParty": {
-            "SNLD": 3,
-            "USDP": 1
+            "SNLD": 2
         },
-        "delegate": {
-            "pyithu": 2660,
-            "state1": 6224,
-            "state2": 6229,
-            "amyotha": 887
-        }
+        "delegate": {}
     },
     "taunggyi": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "ywangan": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "pangwaun": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongla": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "pinlaung": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongkaing": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "pangsang": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "narphan": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     },
     "mongmao": {
-        "winParty": {
-            "SNLD": 2,
-            "USDP": 1
-        },
-        "delegate": {
-            "pyithu": 2722,
-            "state1": 6351,
-            "state2": 6357
-        }
+        "winParty": {},
+        "delegate": {}
     }
 }
