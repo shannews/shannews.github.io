@@ -1,0 +1,72 @@
+{
+    "NLD": {
+        "amyotha": 4,
+        "pyithu": 14,
+        "state1": 29,
+        "state2": 0,
+        "ethnic": 3
+    },
+    "USDP": {
+        "amyotha": 3,
+        "pyithu": 15,
+        "state1": 24,
+        "state2": 0,
+        "ethnic": 0
+    },
+    "SNLD": {
+        "amyotha": 2,
+        "pyithu": 13,
+        "state1": 26,
+        "state2": 0,
+        "ethnic": 0
+    },
+    "TNP": {
+        "amyotha": 2,
+        "pyithu": 3,
+        "state1": 7,
+        "state2": 0,
+        "ethnic": 0
+    },
+    "PNO": {
+        "amyotha": 1,
+        "pyithu": 3,
+        "state1": 7,
+        "state2": 0,
+        "ethnic": 0
+    },
+    "WNP": {
+        "amyotha": 0,
+        "pyithu": 1,
+        "state1": 2,
+        "state2": 0,
+        "ethnic": 0
+    },
+    "SNDP": {
+        "amyotha": 0,
+        "pyithu": 0,
+        "state1": 1,
+        "state2": 0,
+        "ethnic": 0
+    },
+    "LNDP": {
+        "amyotha": 0,
+        "pyithu": 0,
+        "state1": 0,
+        "state2": 0,
+        "ethnic": 1
+    },
+    "LHNDP": {
+        "amyotha": 0,
+        "pyithu": 0,
+        "state1": 1,
+        "state2": 0,
+        "ethnic": 0
+    },
+    "no_party": {
+        "amyotha": 0,
+        "pyithu": 0,
+        "state1": 1,
+        "state2": 0,
+        "ethnic": 0
+    }
+}
