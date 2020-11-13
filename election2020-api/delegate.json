@@ -319,14 +319,6 @@
             "amyotha": 850
         }
     },
-    "mongkung": {
-        "winParty": {
-            "SNLD": 1
-        },
-        "delegate": {
-            "amyotha": 895
-        }
-    },
     "mongmit": {
         "winParty": {
             "NLD": 3,
@@ -596,8 +588,12 @@
         }
     },
     "mongkaing": {
-        "winParty": {},
-        "delegate": {}
+        "winParty": {
+            "SNLD": 1
+        },
+        "delegate": {
+            "amyotha": 895
+        }
     },
     "pangsang": {
         "winParty": {
