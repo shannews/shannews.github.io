@@ -588,8 +588,12 @@
         }
     },
     "pinlaung": {
-        "winParty": {},
-        "delegate": {}
+        "winParty": {
+            "SNLD": 1
+        },
+        "delegate": {
+            "amyotha": 895
+        }
     },
     "mongkaing": {
         "winParty": {},
@@ -612,7 +616,11 @@
         }
     },
     "mongmao": {
-        "winParty": {},
-        "delegate": {}
+        "winParty": {
+            "USDP": 1
+        },
+        "delegate": {
+            "amyotha": 917
+        }
     }
 }
