@@ -485,13 +485,10 @@
     },
     "panglong": {
         "winParty": {
-            "PNO": 4
+            "SNLD": 1
         },
         "delegate": {
-            "state1": 6118,
-            "state2": 6124,
-            "pyithu": 2611,
-            "amyotha": 909
+            "amyotha": 895
         }
     },
     "pekon": {
@@ -581,10 +578,13 @@
     },
     "pinlaung": {
         "winParty": {
-            "SNLD": 1
+            "PNO": 4
         },
         "delegate": {
-            "amyotha": 895
+            "state1": 6118,
+            "state2": 6124,
+            "pyithu": 2611,
+            "amyotha": 909
         }
     },
     "mongkaing": {
